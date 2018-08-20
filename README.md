@@ -1,0 +1,2 @@
+# magazyntest
+sample text
